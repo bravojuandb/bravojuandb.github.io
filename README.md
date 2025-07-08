@@ -13,5 +13,3 @@ This quote illustrates my path:
 > **"Omnia disce, videbis postea nihil esse superfluum."**  
 > *"Learn everything; you will see later that nothing is superfluous."*  
 > — *Hugh of Saint Victor, Didascalicon III.4*
-
-This quote illustrates my path:
